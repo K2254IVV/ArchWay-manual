@@ -7,5 +7,5 @@ Guides:
 
 Install:
  LenovoG500:
-bash```
+```bash
 ```
