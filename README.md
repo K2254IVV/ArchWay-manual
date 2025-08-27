@@ -6,6 +6,7 @@ Guides:
 ---
 
 Install:
- LenovoG500:
+ - LenovoG500:
 ```bash
+sh -c "$(curl -fsSL "https://raw.githubusercontent.com/K2254IVV/ArchWay-manual/refs/heads/main/script/lg500/part0.sh")"
 ```
