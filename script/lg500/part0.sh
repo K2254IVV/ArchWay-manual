@@ -16,4 +16,4 @@ grub-install --target=i386-pc /dev/sda
 grub-mkconfig -o /boot/grub/grub.cfg
 exit
 EOF
-echo "ArchWay Linux Part 0 Installed! Please run part1.sh to finish installation."
+echo "ArchWay Linux Part 0 Installed! Please run part1.sh in arch-chroot to finish installation."
