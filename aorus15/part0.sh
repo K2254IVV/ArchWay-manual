@@ -16,4 +16,4 @@ grub-mkconfig -o /boot/grub/grub.cfg
 microcode_ctl update
 exit
 EOF
-echo "ArchWay Part0 for AORUS15 Series Laptop Installed! run part1.sh to finish installation, goodbye! "
+echo "ArchWay Part0 for AORUS15 Series Laptop Installed! run part1.sh in arch-chroot to finish installation, goodbye! "
