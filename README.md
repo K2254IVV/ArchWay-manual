@@ -1,4 +1,16 @@
 # ArchWay Install Manual
+## Warning!!
+<details>
+
+<summary> Information</summary>
+
+**Use cfdisk** (recommended) to partition the disk before installation
+Version: Milky (1.0)
+![](https://img.shields.io/badge/Status-stable-orange)
+
+</details>
+
+
 Table of Contents:
  - [Guides](#manuals)
  - [How Install ArchWay](#install)
