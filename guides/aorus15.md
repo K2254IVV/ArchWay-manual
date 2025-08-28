@@ -37,7 +37,7 @@ mount /dev/nvme0n1p1 /mnt/boot/efi  # Mount EFI partition
 ### 4. Install Base Packages
 We'll install essential packages including the Linux kernel, firmware, and other tools needed for basic operation:
 ```bash
-pacstrap /mnt base linux linux-firmware coreutils iproute2 dhcpcd iwd grub sudo nano fastfetch util-linux nvidia nvidia-utils efibootmgr os-prober intel-ucode
+pacstrap /mnt base linux linux-firmware coreutils iproute2 dhcpcd iwd grub sudo nano fastfetch util-linux nvidia nvidia-utils efibootmgr os-prober intel-ucode curl wget
 ```
 
 ### 5. Generate FSTAB Table
