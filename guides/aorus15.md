@@ -59,6 +59,8 @@ echo LANG=en_US.UTF-8 > /etc/locale.conf
 export LANG=en_US.UTF-8
 ln -sf /usr/share/zoneinfo/America/Los_Angeles /etc/localtime     # Change time zone accordingly
 hwclock --systohc --utc
+nano /etc/locale.gen
+locale-gen
 ```
 
 ### 8. Set Hostname
