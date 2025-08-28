@@ -1,3 +1,4 @@
+#!/bin/bash
 #ArchWay Lenovo G500 part0
 mkfs.vfat /dev/sda1
 mkfs.ext4 /dev/sda2
