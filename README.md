@@ -13,7 +13,8 @@ Version: Milky (1.0)
 </details>
 
 
-Table of Contents:
+
+# Table of Contents:
  - [Guides](#manuals)
  - [How Install ArchWay](#install)
  - [list of supported devices for installation ArchWay](#supported-devices)
