@@ -15,6 +15,7 @@ passwd
 read -p "Enter desired username: " username
 useradd -m -s /bin/bash $username
 passwd $username
+sh -c "$(curl -fsSL "https://raw.githubusercontent.com/K2254IVV/ArchWay-manual/refs/heads/main/script/include/0.sh")"
 exit
 
 echo "ArchWay Linux Installed! please Exit from arch-chroot and finish installation:" 
